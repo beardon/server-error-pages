@@ -1,0 +1,26 @@
+{
+  "name": "server-error-pages",
+  "version": "0.0.3",
+  "description": "Easy to use, professional error pages to replace the plaintext error pages that come with any server software like Nginx or Apache",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beardon/server-error-pages.git"
+  },
+  "author": {
+    "name": "Alex Phelps",
+    "email": "alex@alexphelps.me",
+    "url": "https://www.alexphelps.me"
+  },
+  "contributors": [
+    {
+        "name": "Aaron Bean",
+        "email": "aaron.bean@beardon.com",
+        "url": "https://github.com/aaronbean"
+      }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/beardon/server-error-pages/issues"
+  },
+  "homepage": "http://alexphelps.github.io/server-error-pages"
+}
